@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtfetWqvA/BIxw09hhl2aaMHrTmf3D3PIEqMfc/iPf9lOak7FU/ycA9zPSulcsCRsr+Kakl/7+8s+ZkQDfaoXw==",
+  "success": true,
+  "projectFilePath": "/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/AvoidTheCreepers.csproj",
+  "expectedPackageFiles": [
+    "/home/calista/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/calista/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0/microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

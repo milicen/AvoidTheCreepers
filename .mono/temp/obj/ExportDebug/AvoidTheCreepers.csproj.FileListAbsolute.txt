@@ -1,0 +1,8 @@
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/bin/ExportDebug/AvoidTheCreepers.dll
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/bin/ExportDebug/AvoidTheCreepers.pdb
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/obj/ExportDebug/AvoidTheCreepers.csprojAssemblyReference.cache
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/obj/ExportDebug/AvoidTheCreepers.AssemblyInfoInputs.cache
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/obj/ExportDebug/AvoidTheCreepers.AssemblyInfo.cs
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/obj/ExportDebug/AvoidTheCreepers.csproj.CoreCompileInputs.cache
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/obj/ExportDebug/AvoidTheCreepers.dll
+/home/calista/Desktop/Calista/GodotProjects/AvoidTheCreepers/.mono/temp/obj/ExportDebug/AvoidTheCreepers.pdb
